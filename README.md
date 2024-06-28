@@ -1,16 +1,21 @@
-# movies Task App Tech Pay
+# Movies Task App Tech Pay
 
-A new Flutter project.
+This project was developed with the flutter framework
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Steps to run
+1. flutter pub get  - to install packages
+2. flutter run to run 
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+# ScreenShots
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Home Screen
+
+![Alt text](screenshots/home.PNG)
+
+
+Details Screen
+
+![Alt text](screenshots/details%20screen.PNG)
